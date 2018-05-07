@@ -2,6 +2,7 @@
 ## 技术栈：
 
 react + react-router + redux + immutable + less + ES6/7 + webpack + fetch
+技术：https://github.com/livoras/blog/issues
 
 
 ## 运行项目（nodejs 6.0+）
